@@ -17,15 +17,15 @@ Pacific University, Forest Grove, OR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Portland Community College, Portland, OR
 
 ## PROJECTS                             									            	
-**Music Site / Spotify Clone**&nbsp;(HTML / CSS, PHP, MySQL, jQuery, Ajax)<br/>
+**[Music Site / Spotify Clone](https://github.com/Falcon-Punch/Music-Site)**&nbsp;(HTML / CSS, PHP, MySQL, jQuery, Ajax)<br/>
 •	A music streaming website that allows the user to sign up for an account, search and store music into personalized playlists.<br/>
 •	The site is highlighted by an interactive music playing bar that allows the user to control the music via shuffle, repeat, play, pause, previous and next buttons.<br/>
 
-**Cryptocurrency Top 100 Ranker**&nbsp;(Python)<br/>
+**[Cryptocurrency Top 100 Ranker](https://github.com/Falcon-Punch/Cryptocurrency-Top-100-Ranker)**&nbsp;(Python)<br/>
 •	Python app that lists 100 cryptocurrencies in order of rank, 24-hour change or volume.<br/>
 •	Data is pulled from the Global API of Coin Market Cap website and displayed in a user-friendly command line display.<br/>
 
-**UNIX Shell**&nbsp;(C, Eclipse IDE, UNIX)<br/>
+**[UNIX Shell](https://github.com/Falcon-Punch/UNIX-Shell)**&nbsp;(C, Eclipse IDE, UNIX)<br/>
 •	Creation of a small command line interface in UNIX.<br/>
 •	Utilizes child and parent processes as well as inter-process communication.<br/>
 •	Includes input/output redirection, piping and background launching.<br/>
