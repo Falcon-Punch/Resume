@@ -1,12 +1,13 @@
-<p align="center"><h1>Joseph A. Schell</h1></p>
+<h1 align="center">Joseph A. Schell</h1>
 
 <p align="center"><b>Portland, OR ⬥ Phone:</b> (510) 965-3166</p>
-<p align="center"><b>Email:</b> JosephSchell510@gmail.com ⬥ <b>GitHub:</b> https://github.com/Falcon-Punch</p><br/>
-					 
-## SKILLS													
-**Proficient Languages**:		C, C++, Java<br/>
-**Experience with**: 		C#, Python, SQL, PHP, HTML, CSS, JavaScript<br/>
-**Technologies**: 	Visual Studio, jQuery, Ajax, Android, UNIX / Linux, Valgrind, Unity, Git / GitHub, PowerShell, Adobe Photoshop<br/>
+<p align="center"><b>Email:</b> JosephSchell510@gmail.com ⬥ <b>GitHub:</b> https://github.com/Falcon-Punch</p>
+
+<h2>SKILLS</h2>
+
+**Proficient Languages**: C, C++, Java<br/>
+**Experience with**: C#, Python, SQL, PHP, HTML, CSS, JavaScript<br/>
+**Technologies**: Visual Studio, jQuery, Ajax, Android, UNIX / Linux, Valgrind, Unity, Git / GitHub, PowerShell, Adobe Photoshop<br/>
 
 ## EDUCATION												
 **Bachelor of Science, Computer Science** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Aug 2017 – May 2019**<br/>
