@@ -23,7 +23,7 @@ Portland Community College, Portland, OR
 
 **[Cryptocurrency Top 100 Ranker](https://github.com/Falcon-Punch/Cryptocurrency-Top-100-Ranker)**&nbsp;(Python)<br/>
 •	Python app that lists 100 cryptocurrencies in order of rank, 24-hour change or volume.<br/>
-•	Data is pulled from the Global API of Coin Market Cap website and displayed in a user-friendly command line display.<br/>
+•	Data is pulled from the Global API of Coin Market Cap website and displayed in a user-friendly command line table.<br/>
 
 **[UNIX Shell](https://github.com/Falcon-Punch/UNIX-Shell)**&nbsp;(C, Eclipse IDE, UNIX)<br/>
 •	Creation of a small command line interface in UNIX.<br/>
