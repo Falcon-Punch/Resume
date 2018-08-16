@@ -21,6 +21,11 @@ Portland Community College, Portland, OR
 •	A music streaming website that allows the user to sign up for an account, search and store music into personalized playlists.<br/>
 •	The site is highlighted by an interactive music playing bar that allows the user to control the music via shuffle, repeat, play, pause, previous and next buttons.<br/>
 
+**[Keylogger](https://github.com/Falcon-Punch/Advanced-Keylogger)**&nbsp;(C++, Visual Studio, PowerShell)<br/>
+• Created a program that logs key strokes, encrypts the keys and then stores them into a hash table.<br/>
+• The program stores the encrypted data into a log file and emails the file to the user.<br/>
+• Designed to be undetected by most anti-virus software.<br/>
+
 **[Cryptocurrency Top 100 Ranker](https://github.com/Falcon-Punch/Cryptocurrency-Top-100-Ranker)**&nbsp;(Python)<br/>
 •	Python app that lists 100 cryptocurrencies in order of rank, 24-hour change or volume.<br/>
 •	Data is pulled from the Global API of Coin Market Cap website and displayed in a user-friendly command line table.<br/>
