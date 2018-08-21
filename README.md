@@ -26,14 +26,14 @@ Portland Community College, Portland, OR
 • The program stores the encrypted data into a log file and emails the file to the user.<br/>
 • Designed to be undetected by most anti-virus software.<br/>
 
-**[Cryptocurrency Top 100 Ranker](https://github.com/Falcon-Punch/Cryptocurrency-Top-100-Ranker)**&nbsp;(Python)<br/>
-•	Python app that lists 100 cryptocurrencies in order of rank, 24-hour change or volume.<br/>
-•	Data is pulled from the Global API of Coin Market Cap website and displayed in a user-friendly command line table.<br/>
-
 **[UNIX Shell](https://github.com/Falcon-Punch/UNIX-Shell)**&nbsp;(C, Eclipse IDE, UNIX)<br/>
 •	Creation of a small command line interface in UNIX.<br/>
 •	Utilizes child and parent processes as well as inter-process communication.<br/>
 •	Includes input/output redirection, piping and background launching.<br/>
+
+**[UFO Maze Game](https://github.com/Falcon-Punch/UFO-Maze-Game)**&nbsp;(C#, Unity, PC Gaming)<br/>
+• Allows players to fly a UFO through six levels of mazes that grow increasingly more difficult.<br/>
+• Includes particle effects, moving obstacles, agile ship rotation and ship thrusting effects.<br/>
 
 ## PROFESSIONAL EXPERIENCE 										
 **Software Developer** – *Silika Technologies*, Hillsboro, OR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**June 2018 – Current**<br/>
