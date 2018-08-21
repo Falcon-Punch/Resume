@@ -1,7 +1,7 @@
 <h1 align="center">Joseph A. Schell</h1>
 
-<p align="center"><b>Portland, OR ⬥ Phone:</b> (510) 965-3166</p>
-<p align="center"><b>Email:</b> JosephSchell510@gmail.com ⬥ <b>GitHub:</b> https://github.com/Falcon-Punch</p>
+<p align="center"><b>Portland, OR | Phone:</b> (510) 965-3166 | <b>Email:</b> JosephSchell510@gmail.com</p>
+<p align="center"><b>LinkedIn: https://www.linkedin.com/in/js510</b> | <b>GitHub: https://github.com/Falcon-Punch</b></p>
 
 <h2>SKILLS</h2>
 
