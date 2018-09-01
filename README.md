@@ -7,7 +7,7 @@
 
 **Proficient Languages**: C, C++, Java<br/>
 **Experience with**: C#, Python, SQL, PHP, HTML, CSS, JavaScript<br/>
-**Technologies**: Visual Studio, jQuery, Ajax, Android, UNIX / Linux, Valgrind, Unity, Git / GitHub, PowerShell, Adobe Photoshop<br/>
+**Technologies**: Visual Studio, jQuery, Ajax, Android, UNIX / Linux, Unity, Git / GitHub, PowerShell, WordPress, Adobe Photoshop<br/>
 
 ## EDUCATION												
 **Bachelor of Science, Computer Science** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Aug 2017 – May 2019**<br/>
@@ -21,10 +21,9 @@ Portland Community College, Portland, OR
 •	A music streaming website that allows the user to sign up for an account, search and store music into personalized playlists.<br/>
 •	The site is highlighted by an interactive music playing bar that allows the user to control the music via shuffle, repeat, play, pause, previous and next buttons.<br/>
 
-**[Keylogger](https://github.com/Falcon-Punch/Advanced-Keylogger)**&nbsp;(C++, Visual Studio, PowerShell)<br/>
-• Created a program that logs key strokes, encrypts the keys and then stores them into a hash table.<br/>
-• The program stores the encrypted data into a log file and emails the file to the user.<br/>
-• Designed to be undetected by most anti-virus software.<br/>
+**[Fractal Image Generator](https://github.com/Falcon-Punch/Fractal-Image-Generator)**&nbsp;(C++, Visual Studio)<br/>
+• Draws pixels onto images in the form of recursive fractal designs using Mandelbrot’s algorithm.<br/>
+• The program also has a zoom function that allows the user to magnify images for a closer look.<br/>
 
 **[UNIX Shell](https://github.com/Falcon-Punch/UNIX-Shell)**&nbsp;(C, Eclipse IDE, UNIX)<br/>
 •	Creation of a small command line interface in UNIX.<br/>
