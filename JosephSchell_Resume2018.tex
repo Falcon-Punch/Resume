@@ -1,0 +1,254 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy CV/Resume
+% XeLaTeX Template
+% Version 1.0 (5/5/2014)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Debarghya Das (http://www.debarghyadas.com)
+% With extensive modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important notes:
+% This template needs to be compiled with XeLaTeX.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[letterpaper]{deedy-resume} % Use US Letter paper, change to a4paper for A4 
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep, topsep=0pt}
+\newcommand{\CS}{C\#}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+\namesection{Joseph}{Schell}{ % Your name
+\urlstyle{same}\url{falcon-punch.github.io/Portfolio/} \\ % Your website, LinkedIn profile or other web address
+\href{mailto:JosephSchell510@gmail.com}{JosephSchell510@gmail.com} | 510-965-3166 % Your contact information
+}
+
+%----------------------------------------------------------------------------------------
+%	LEFT COLUMN
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+
+%------------------------------------------------
+% Education
+%------------------------------------------------
+
+\section{Education} 
+
+\subsection{Pacific University}
+
+\descript{Bachelor of Science\\Computer Science}
+\location{Forest Grove, OR}
+Expected Graduation May 2019
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+
+%------------------------------------------------
+% Links
+%------------------------------------------------
+
+\section{Links} 
+
+Github: \href{https://github.com/Falcon-Punch}{\bf github.com/Falcon-Punch} \\
+LinkedIn: \href{https://www.linkedin.com/in/js510/}{\bf www.linkedin.com/in/js510/}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Skills
+%------------------------------------------------
+
+\section{Skills}
+
+\subsection{Programming}
+
+\descript{Proficient:}
+C \textbullet{} C++ \textbullet{} Java \\
+\descript{Experience with:}
+\CS{} \textbullet{} Python \textbullet{} SQL \textbullet{} PHP \\
+HTML5 \textbullet{} CSS \textbullet{} JavaScript \\
+\descript{Technologies:}
+Visual Studio \textbullet{} jQuery \textbullet{} Ajax \\
+Android \textbullet{} UNIX / Linux \textbullet{} Valgrind \\
+Unity \textbullet{} Git / GitHub \textbullet{} PowerShell \\
+WordPress \textbullet{} Adobe Photoshop
+
+\sectionspace % Some whitespace after the section
+
+%----------------------------------------------------------------------------------------
+
+%------------------------------------------------
+% Coursework
+%------------------------------------------------
+
+\section{Coursework}
+
+Data Structures \\
+Intro to Android Programming \\
+Human Computer Interaction \\
+Computer Security \\
+Operating Systems \\
+Discrete Math \\
+Linear Algebra
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Awards
+%------------------------------------------------
+
+\section{Awards} 
+
+Reserved
+
+%\begin{tabular}{rll}
+%2014	 & top 52/2500 & KPCB Engineering Fellow\\
+%2014	 & 2\textsuperscript{nd} most points & Google Code Jam, Qualification Round\\
+%\end{tabular}
+
+\sectionspace % Some whitespace after the section
+
+\end{minipage} % The end of the left column
+\hfill
+%
+%----------------------------------------------------------------------------------------
+%	RIGHT COLUMN
+%----------------------------------------------------------------------------------------
+%
+\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+
+%------------------------------------------------
+% Projects
+%------------------------------------------------
+
+\section{Projects}
+
+\runsubsection{Music Site / Spotify Clone}
+\descript{ Aug 2018}
+
+\location{Technologies used: HTML, CSS, PHP, MySQL, jQuery, Ajax}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item A music streaming website that allows the user to sign up for an account, search and store music into personalized playlists.
+\item The site features an interactive music playing bar that allows the user to control the music via shuffle, repeat, play, pause, previous and next buttons.
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\runsubsection{Fractal Image Generator}
+\descript{ Aug 2018}
+
+\location{Technologies used: C++, Visual Studio}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Draws pixels onto a bitmap image that forms recursive fractal designs using Mandelbrot’s algorithm.
+\item The program also has a zoom function that allows the user to magnify images.
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\runsubsection{UNIX Shell}
+\descript{ May 2018}
+
+\location{Technologies used: C, Eclipse IDE, UNIX}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Creation of a small command line interface in UNIX that utilizes child and parent processes.
+\item Program includes input/output redirection, piping and background launching.
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\runsubsection{UFO Maze Game}
+\descript{ May 2018}
+
+\location{Technologies used: \CS{}, Unity, PC Gaming}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Allows players to fly a UFO through six levels of mazes that grow increasingly more difficult.
+\item Includes particle effects, moving obstacles, agile ship rotation and ship thrusting effects.
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Experience
+%------------------------------------------------
+
+\section{Experience}
+
+\runsubsection{reserved}
+\descript{| Software Engineering Intern}
+
+\location{May 2013 – Aug 2013 | Mountain View, CA}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Worked on the YouTube Captions team in primarily vanilla Javascript and Python to plan, design and develop the full stack implementation of a new framework to add and edit Automatic Speech Recognition captions.
+\item Created a backbone.js-like framework for the Captions editor.
+\item All code was reviewed, perfected, and pushed to production.
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\runsubsection{reserved}
+\descript{| Open Source Contributor \& Team Leader}
+
+\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.
+\item I created the Meme generator, the entire Lipsum application, ported Tokens to different apps, fixed many bugs and more in PHP and Shell.
+\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.
+\end{tightitemize}
+
+\sectionspace % Some whitespace after the section
+
+
+
+
+\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+%	SECOND PAGE (EXAMPLE)
+%----------------------------------------------------------------------------------------
+
+%\newpage % Start a new page
+
+%\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+
+%\section{Example Section}
+
+%\end{minipage} % The end of the left column
+%\hfill
+%\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+
+%\section{Example Section 2}
+
+%\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
