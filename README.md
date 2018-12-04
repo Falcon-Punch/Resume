@@ -17,10 +17,6 @@ Western Governors University, Salt Lake City, UT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Portland Community College, Portland, OR
 
 ## PROJECTS                             									            	
-**[Music Site / Spotify Clone](https://github.com/Falcon-Punch/Music-Site)**&nbsp;(HTML / CSS, PHP, MySQL, jQuery, Ajax)<br/>
-•	A music streaming website that allows the user to sign up for an account, search and store music into personalized playlists.<br/>
-•	The site is highlighted by an interactive music playing bar that allows the user to control the music via shuffle, repeat, play, pause, previous and next buttons.<br/>
-
 **[Fractal Image Generator](https://github.com/Falcon-Punch/Fractal-Image-Generator)**&nbsp;(C++, Visual Studio)<br/>
 • Draws pixels onto images in the form of recursive fractal designs using Mandelbrot’s algorithm.<br/>
 • The program also has a zoom function that allows the user to magnify images for a closer look.<br/>
@@ -30,7 +26,7 @@ Portland Community College, Portland, OR
 •	Utilizes child and parent processes as well as inter-process communication.<br/>
 •	Includes input/output redirection, piping and background launching.<br/>
 
-**[UFO Maze Game](https://github.com/Falcon-Punch/UFO-Maze-Game)**&nbsp;(C#, Unity, PC Gaming)<br/>
+**[UFO Flight Simulation Game](https://github.com/Falcon-Punch/UFO-Flight-Game)**&nbsp;(C#, Unity, PC Gaming)<br/>
 • Allows players to fly a UFO through six levels of mazes that grow increasingly more difficult.<br/>
 • Includes particle effects, moving obstacles, agile ship rotation and ship thrusting effects.<br/>
 
